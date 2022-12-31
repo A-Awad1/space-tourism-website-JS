@@ -22,8 +22,8 @@ Crew Page in Mobile Layout (width:375):
 
 Technology Page in Mobile Layout (width:375):
 
-![Output](/Output-design-screenshots/Mobile 2.png)
+![Output](/Output-design-screenshots/Mobile2.png)
 
 Nav Bar of Mobile Layout (width:375):
 
-![Output](/Output-design-screenshots/Mobile 3.png)
+![Output](/Output-design-screenshots/Mobile3.png)
