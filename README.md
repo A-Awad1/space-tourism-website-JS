@@ -1,4 +1,4 @@
-# Frontend Mentor - Multi Page Space Tourism Website
+# Multi Page Space Tourism Website (from Frontend Mentor Website)
 
 This is a website contains multi pages.
 I designed it from the figma file and did my best to reach the perfect pixel.
